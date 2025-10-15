@@ -10,4 +10,5 @@ lvgl 8.3
 
 <img width="1238" height="1039" alt="image" src="https://github.com/user-attachments/assets/87a8b81f-2e79-45dd-bee0-086e14b34cbd" />
 
-<img width="1163" height="707" alt="image" src="https://github.com/user-attachments/assets/2414df18-7101-411a-9c21-0affacf852aa" />
+<img width="1156" height="707" alt="image" src="https://github.com/user-attachments/assets/7cc20ddf-7243-412c-8bd9-13d2be90958f" />
+
