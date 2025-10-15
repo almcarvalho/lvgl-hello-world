@@ -1,3 +1,7 @@
+Existem duas ótimas bibliotecas para trabalhar com esse display na minha opinião, a Lovyan e a LVGL.
+Aqui deixo um tutorial completo de um hello world usando lvgl e fazendo as telas no software squareline studio, em breve,
+deixarei aqui um hello world usando apenas a Lovyan e em breve tem o curso ensinando como pagar com pix usando esse display!
+
 lvgl 8.3
 https://docs.lvgl.io/8.3/
 
