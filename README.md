@@ -1,6 +1,13 @@
 lvgl 8.3
+https://docs.lvgl.io/8.3/
 
 <img width="1600" height="1201" alt="image" src="https://github.com/user-attachments/assets/db976b02-371f-4a46-9934-869d85475d10" />
+
+
+Squareline:
+https://squareline.io/
+Vídeos úteis:
+https://www.youtube.com/@squarelinestudio
 
 <img width="1909" height="939" alt="image" src="https://github.com/user-attachments/assets/1d2431b8-956b-4e5a-b924-d349175111c1" />
 
